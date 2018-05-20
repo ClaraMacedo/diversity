@@ -1,18 +1,23 @@
+.corpo{
+    background: rgb(43, 209, 132);
+}
 #btn-menu{
     opacity: 0.9;
     text-align: left;
     position: fixed
 }
+a {
+    color: #fdfdfd;
+    text-decoration: none;
+    
+}
 #jumbo{
-    background: url('img/ciclo-de-seminarios-capa.jpg') center #131313; 
+    background: url('img/footer.png') center #131313; 
     height: 470px;
     width:100%;
     background-repeat: no-repeat;
 }
-#tamanhomedio{
-    width: 80%;
-    margin-left: 40px;
-}
+
 .card-pal{
     border: 0px !important;
 }
@@ -32,7 +37,6 @@
     background-color: #e6e6e6b0;
 }
 footer{
-    background-color: #031440;
     color: white;
     text-align: center;
     font-size: 30px;
